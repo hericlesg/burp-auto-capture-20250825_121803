@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250825_121941", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_121941/request_001.txt", 
+      "url": "https://zeroum-ws.zeroum.day:443/basehub/negotiate?languageId=pt&timeZone=-3&negotiateVersion=1", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_121941/response_001.txt", 
+      "timestamp": 1756135030912
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_121941/request_002.txt", 
+      "url": "https://zeroum-ws.zeroum.day:443/basehub?languageId=pt&timeZone=-3&id=zkMPHWwP0Euotn_dCyP9PA", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/zeroum-ws.zeroum.day_20250825_121941/response_002.txt", 
+      "timestamp": 1756135049379
+    }
+  ], 
+  "host": "zeroum-ws.zeroum.day", 
+  "total_requests": 2
+}
