@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250825_122018", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/mpc-prod-4-1053047382554.us-central1.run.app_20250825_122018/request_001.txt", 
+      "url": "https://mpc-prod-4-1053047382554.us-central1.run.app:443/events/f19e7e128ed4776a9a1827ca9060dedf0d3bce2c075a3b8645d6c92dbb81266d", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/mpc-prod-4-1053047382554.us-central1.run.app_20250825_122018/response_001.txt", 
+      "timestamp": 1756135031544
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/mpc-prod-4-1053047382554.us-central1.run.app_20250825_122018/request_002.txt", 
+      "url": "https://mpc-prod-4-1053047382554.us-central1.run.app:443/events/f19e7e128ed4776a9a1827ca9060dedf0d3bce2c075a3b8645d6c92dbb81266d", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/mpc-prod-4-1053047382554.us-central1.run.app_20250825_122018/response_002.txt", 
+      "timestamp": 1756135192855
+    }
+  ], 
+  "host": "mpc-prod-4-1053047382554.us-central1.run.app", 
+  "total_requests": 2
+}
