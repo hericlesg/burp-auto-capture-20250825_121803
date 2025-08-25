@@ -1,0 +1,87 @@
+{
+  "capture_timestamp": "20250825_121925", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.day_20250825_121925/request_001.txt", 
+      "url": "https://zeroum-api.zeroum.day:443/basehub/negotiate?languageId=pt&negotiateVersion=1", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.day_20250825_121925/response_001.txt", 
+      "timestamp": 1756135030177
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.day_20250825_121925/request_002.txt", 
+      "url": "https://zeroum-api.zeroum.day:443/api/client/legal-document/latest", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.day_20250825_121925/response_002.txt", 
+      "timestamp": 1756135030177
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.day_20250825_121925/request_003.txt", 
+      "url": "https://zeroum-api.zeroum.day:443/api/banners?languageId=pt&page=6&LanguageId=pt&TimeZone=-3", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.day_20250825_121925/response_003.txt", 
+      "timestamp": 1756135030327
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.day_20250825_121925/request_004.txt", 
+      "url": "https://zeroum-api.zeroum.day:443/api/bets/lucky?languageId=pt&LanguageId=pt&TimeZone=-3", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.day_20250825_121925/response_004.txt", 
+      "timestamp": 1756135030444
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.day_20250825_121925/request_005.txt", 
+      "url": "https://zeroum-api.zeroum.day:443/api/registration/flow", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.day_20250825_121925/response_005.txt", 
+      "timestamp": 1756135031183
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.day_20250825_121925/request_006.txt", 
+      "url": "https://zeroum-api.zeroum.day:443/basehub?languageId=pt&id=8v_GHZOcYTCn-s7jzov0_w", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.day_20250825_121925/response_006.txt", 
+      "timestamp": 1756135031377
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.day_20250825_121925/request_007.txt", 
+      "url": "https://zeroum-api.zeroum.day:443/api/registration/flow", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.day_20250825_121925/response_007.txt", 
+      "timestamp": 1756135034119
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.day_20250825_121925/request_008.txt", 
+      "url": "https://zeroum-api.zeroum.day:443/api/registration/flow", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.day_20250825_121925/response_008.txt", 
+      "timestamp": 1756135037937
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.day_20250825_121925/request_009.txt", 
+      "url": "https://zeroum-api.zeroum.day:443/api/registration/flow", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.day_20250825_121925/response_009.txt", 
+      "timestamp": 1756135043979
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/zeroum-api.zeroum.day_20250825_121925/request_010.txt", 
+      "url": "https://zeroum-api.zeroum.day:443/api/client/legal-document/latest", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/zeroum-api.zeroum.day_20250825_121925/response_010.txt", 
+      "timestamp": 1756135153870
+    }
+  ], 
+  "host": "zeroum-api.zeroum.day", 
+  "total_requests": 10
+}
